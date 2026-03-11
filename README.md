@@ -4,13 +4,8 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 ## Informasi Mahasiswa
 
-Nama : Mohammad Regieyanto
-NPM : 2313020003
-
-## Deskripsi Repository
-
-Repository ini berisi latihan dasar penggunaan Version Control System menggunakan Git dan GitHub.
-Mahasiswa mempraktikkan pembuatan repository, melakukan commit perubahan, serta menyimpan project ke GitHub.
+*Nama : Mohammad Regieyanto
+*NPM : 2313020003
 
 ## Tujuan Repository
 
