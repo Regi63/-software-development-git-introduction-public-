@@ -23,6 +23,5 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 ## Struktur Repository
 
 software-development-git-introduction
-│
-├── README.md
-└── perkenalan.md
+* README.md
+* Perkenalan.md
