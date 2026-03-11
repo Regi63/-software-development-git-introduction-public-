@@ -4,8 +4,8 @@ Repository ini dibuat sebagai tugas pengenalan Git dan GitHub pada mata kuliah S
 
 ## Informasi Mahasiswa
 
-*Nama : Mohammad Regieyanto
-*NPM : 2313020003
+* Nama : Mohammad Regieyanto
+* NPM : 2313020003
 
 ## Tujuan Repository
 
